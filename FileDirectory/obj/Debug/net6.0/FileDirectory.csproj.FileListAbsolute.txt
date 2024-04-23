@@ -1,0 +1,15 @@
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\FileDirectory\bin\Debug\net6.0\FileDirectory.exe
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\FileDirectory\bin\Debug\net6.0\FileDirectory.deps.json
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\FileDirectory\bin\Debug\net6.0\FileDirectory.runtimeconfig.json
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\FileDirectory\bin\Debug\net6.0\FileDirectory.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\FileDirectory\bin\Debug\net6.0\FileDirectory.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\FileDirectory\obj\Debug\net6.0\FileDirectory.csproj.AssemblyReference.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\FileDirectory\obj\Debug\net6.0\FileDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\FileDirectory\obj\Debug\net6.0\FileDirectory.AssemblyInfoInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\FileDirectory\obj\Debug\net6.0\FileDirectory.AssemblyInfo.cs
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\FileDirectory\obj\Debug\net6.0\FileDirectory.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\FileDirectory\obj\Debug\net6.0\FileDirectory.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\FileDirectory\obj\Debug\net6.0\refint\FileDirectory.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\FileDirectory\obj\Debug\net6.0\FileDirectory.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\FileDirectory\obj\Debug\net6.0\FileDirectory.genruntimeconfig.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\FileDirectory\obj\Debug\net6.0\ref\FileDirectory.dll
